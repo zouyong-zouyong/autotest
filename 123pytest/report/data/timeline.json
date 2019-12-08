@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20191117ZOJI",
+    "children" : [ {
+      "name" : "5356-MainThread",
+      "children" : [ {
+        "name" : "test_01_login_success",
+        "uid" : "6ef37944c8deaad0",
+        "parentUid" : "82ecafb8b82600726afb98ad289beead",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574085134389,
+          "stop" : 1574085134537,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82ecafb8b82600726afb98ad289beead"
+    } ],
+    "uid" : "e0e357114abbaab16c9cc4d80c007609"
+  } ]
+}
